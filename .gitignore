@@ -1,4 +1,4 @@
-# Python files
+# Python
 __pycache__/
 *.pyc
 *.pyo
@@ -10,14 +10,14 @@ __pycache__/
 dist/
 build/
 
-# Environment variables
+# Environment
 .env
 .venv
 venv/
 ENV/
 env/
 
-# Media files
+# Media
 *.mp4
 *.avi
 *.mov
@@ -27,7 +27,7 @@ env/
 *.gif
 *.webp
 
-# Logs and data
+# Logs & Data
 *.log
 *.json
 !fun_accounts.json
@@ -43,7 +43,7 @@ env/
 .DS_Store
 Thumbs.db
 
-# Bot specific
+# Bot
 *.session
 *.lock
 
